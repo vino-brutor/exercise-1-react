@@ -5,9 +5,9 @@ export default function App(){
       <img className="pb-4" src="https://onebitcode.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fea7d49f7-85ff-4dc5-96bf-7101fd3e1565%2Freact.png?table=block&id=8bc24587-6336-4b7b-9fe0-1a5d63bccbc8&spaceId=6e5271d8-2f68-42f5-aa75-5978bbff47fa&width=270&userId=&cache=v2" alt="React-logo" />
         <h2>React</h2>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam nesciunt blanditiis, vitae quas ut facilis minus non omnis adipisci possimus labore reiciendis? Debitis nobis nesciunt ducimus quaerat consequuntur nisi expedita numquam aliquid laudantium mollitia, ad at soluta unde, voluptas tempore.</p>
-        <div className="row">
-          <button className="btn btn-primary col p-2 m-2">Saber mais sobre react</button>
-          <button className="btn btn-primary col p-2 m-2">Página da API</button>
+        <div className="container bp-m row">
+          <button className="btn btn-primary col-sm-12 col-md p-2 m-2">Saber mais sobre react</button>
+          <button className="btn btn-primary col-sm-12 col-md p-2 m-2">Página da API</button>
         </div>
         <hr />
         <div className="container">
